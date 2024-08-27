@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579156936383",
+    "project_id": "get-to-know-firebase-flu-ae862",
+    "storage_bucket": "get-to-know-firebase-flu-ae862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579156936383:android:4f3183c67c94789c27280a",
+        "android_client_info": {
+          "package_name": "com.example.get_to_know_firebase_flutter_myself"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKqSI73cFaPKeYBBC9UjyeLVN4DM1mN6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
